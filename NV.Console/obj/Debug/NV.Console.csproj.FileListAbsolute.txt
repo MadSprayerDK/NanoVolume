@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\bin\Debug\NV.Console.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\bin\Debug\NV.Console.exe
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\bin\Debug\NV.Console.pdb
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\bin\Debug\NV.Midi.dll
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\bin\Debug\NV.Midi.pdb
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\obj\Debug\NV.Console.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\obj\Debug\NV.Console.exe
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Console\obj\Debug\NV.Console.pdb

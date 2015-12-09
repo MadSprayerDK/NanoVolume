@@ -1,0 +1,4 @@
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Midi\bin\Debug\NV.Midi.dll
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Midi\bin\Debug\NV.Midi.pdb
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Midi\obj\Debug\NV.Midi.dll
+c:\users\martin\documents\visual studio 2015\Projects\NanoVolume\NV.Midi\obj\Debug\NV.Midi.pdb
